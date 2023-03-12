@@ -114,7 +114,7 @@ if __name__ == '__main__':
 	Content_links = driver.find_elements(By.XPATH , "//div[@class='_aabd _aa8k  _al3k']//a")
 	for content in Content_links:
 		link = content.get_attribute("href")
-		All_Content_links.append(f'{link}\n')
+		All_Content_links.append(f'{link}')
 		print()
 		pprint(f"the link {link} has been added to the list bruv ------ !")
 	print()
