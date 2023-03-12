@@ -53,7 +53,7 @@ def main():
 	chromeOptions = Options()
 	if platform.system().lower() == "linux":
 		chromeOptions.add_argument("--user-data-dir=/home/rohan/Desktop/projects/google_cookies")
-		driver = webdriver.Chrome('chromedriver111.0.5563.64' , options=chromeOptions)\
+		driver = webdriver.Chrome('chromedriver111.0.5563.64' , options=chromeOptions)
 	elif platform.system().lower() == "windows":
 		chromeOptions.add_argument("--user-data-dir=C:\\Users\\Admin\\AppData\\Local\\Google\\Chrome\\User Data\\GrapheBot")
 		driver = webdriver.Chrome('chromedriver.exe' , options=chromeOptions)
