@@ -3,6 +3,7 @@ from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from time import sleep
 from selenium.webdriver.common.by import By
+import platform
 
 
 def countDown(time_to_count):
@@ -50,8 +51,12 @@ def FindLikes(Content_Link , driver):
 
 def main():
 	chromeOptions = Options()
-	chromeOptions.add_argument("--user-data-dir=C:\\Users\\Admin\\AppData\\Local\\Google\\Chrome\\User Data\\GrapheBot")
-	driver = webdriver.Chrome('chromedriver.exe' , options=chromeOptions)
+	if platform.system().lower() == "linux":
+		chromeOptions.add_argument("--user-data-dir=/home/rohan/Desktop/projects/google_cookies")
+		driver = webdriver.Chrome('chromedriver111.0.5563.64' , options=chromeOptions)\
+	elif platform.system().lower() == "windows":
+		chromeOptions.add_argument("--user-data-dir=C:\\Users\\Admin\\AppData\\Local\\Google\\Chrome\\User Data\\GrapheBot")
+		driver = webdriver.Chrome('chromedriver.exe' , options=chromeOptions)
 
 
 	Content_Links = GetData()
