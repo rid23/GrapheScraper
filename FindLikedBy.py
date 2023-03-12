@@ -22,7 +22,7 @@ def GetData():
 	else:
 		print("List Contains Duplicate Data Bro - Clean This Shit.")
 	print(len(clean_links))
-	return clean_links
+	return clean_links[0:5]
 
 
 def FindLikes(Content_Link , driver):
@@ -37,8 +37,10 @@ def FindLikes(Content_Link , driver):
 		print(f'the user_id {the_user_id} has been added to the list')
 	print(f'Total Number of Likes on {Content_Link} is -------------- {len(Ids_liked)} ------------- ')
 
-	FileName_from_link = Content_Link.split('/p/')[1].strip()
-	CreateFile(Content_Link , the_users)
+	FileName_from_link = Content_Link.split('/p/')[1]
+	FileName_from_link = [character for character in FileName_from_link[0:len(FileName_from_link)-1]]
+	FileName_from_link = ''.join(FileName_from_link)
+	CreateFile(f'{FileName_from_link} - {len(Ids_liked)}' , the_users)
 
 
 def main():
@@ -54,7 +56,7 @@ def main():
 
 
 def CreateFile(FileName , DataList):
-	with open(f'{FileName}.txt' , 'w') as file:
+	with open(f'./DATA/{FileName}.txt' , 'w') as file:
 		New_dataList = [f'{data}\n' for data in DataList]
 		file.writelines(New_dataList)
 	print("DATA SAVED SUCCESSFULLY ---------------------------------- ")
