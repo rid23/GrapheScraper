@@ -7,14 +7,20 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
 from pprint import pprint
 from bs4 import BeautifulSoup
-
+import platform
 
 
 chromeOptions = Options()
-chromeOptions.add_argument("--user-data-dir=C:\\Users\\Admin\\AppData\\Local\\Google\\Chrome\\User Data\\GrapheBot")
+
 #chromeOptions.add_argument("--profile-directory=Profile 6")
 #chromeOptions.add_argument('--disable-extensions')
-driver = webdriver.Chrome('chromedriver.exe' , options=chromeOptions)
+if platform.system().lower() == "linux":
+	chromeOptions.add_argument("--user-data-dir=insta_cookies")
+	driver = webdriver.Chrome('chromedriver111.0.5563.64' , options=chromeOptions)
+if platform.system().lower() == "windows":
+	chromeOptions.add_argument("--user-data-dir=C:\\Users\\Admin\\AppData\\Local\\Google\\Chrome\\User Data\\GrapheBot")
+	driver = webdriver.Chrome('chromedriver.exe' , options=chromeOptions)
+
 
 
 
