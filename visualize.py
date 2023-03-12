@@ -1,6 +1,9 @@
 import matplotlib
 import os
 import json
+from grapheScraper import countDown as countdown
+
+
 
 dirs_list = os.listdir("./DATA/")
 
@@ -10,6 +13,8 @@ if "all_users.json" not in dirs_list:
 else :
 	dirs_list.remove("all_users.json")
 
+print(f"total {len(dirs_list)} files found...")
+countdown(3)
 
 all_users = []
 for files in dirs_list:
@@ -17,6 +22,8 @@ for files in dirs_list:
 		users_ = file.readlines()
 		all_users += users_
 
+print(f"total liked by users {len(all_users)}")
+countdown(3)
 
 count_dictionary = {}
 for i in all_users:
@@ -26,7 +33,9 @@ for i in all_users:
 	else :
 		count_dictionary[i] += 1
 
-print(len(count_dictionary))
+print(f"total unique users {len(count_dictionary)}")
+print("json file loads in...")
+countdown(3)
 
 with open("./DATA/all_users.json", 'w') as file:
 	json.dump(count_dictionary, file, indent=4)
