@@ -40,7 +40,12 @@ def FindLikes(Content_Link , driver):
 	FileName_from_link = Content_Link.split('/p/')[1]
 	FileName_from_link = [character for character in FileName_from_link[0:len(FileName_from_link)-1]]
 	FileName_from_link = ''.join(FileName_from_link)
-	CreateFile(f'{FileName_from_link} - {len(Ids_liked)}' , the_users)
+
+	Data_array_with_link_and_id = []
+	for user_Id_link in the_users:
+		specific_user_id = user_Id_link.split('/')[3]
+		Data_array_with_link_and_id.append(f'[{specific_user_id} , {user_Id_link}]')
+	CreateFile(f'{FileName_from_link} - {len(Ids_liked)}' , Data_array_with_link_and_id)
 
 
 def main():
@@ -58,6 +63,7 @@ def main():
 def CreateFile(FileName , DataList):
 	with open(f'./DATA/{FileName}.txt' , 'w') as file:
 		New_dataList = [f'{data}\n' for data in DataList]
+
 		file.writelines(New_dataList)
 	print("DATA SAVED SUCCESSFULLY ---------------------------------- ")
 
