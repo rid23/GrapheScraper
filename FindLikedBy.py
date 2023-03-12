@@ -45,7 +45,7 @@ def FindLikes(Content_Link , driver):
 	Data_array_with_link_and_id = []
 	for user_Id_link in the_users:
 		specific_user_id = user_Id_link.split('/')[3]
-		Data_array_with_link_and_id.append(f'[{specific_user_id} , {user_Id_link}]')
+		Data_array_with_link_and_id.append(f'["{specific_user_id}", "{user_Id_link}"]')
 	CreateFile(f'{FileName_from_link} - {len(Ids_liked)}' , Data_array_with_link_and_id)
 
 
