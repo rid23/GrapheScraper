@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [pranitigupta79 , https://www.instagram.com/pranitigupta79/]
 [sidmalviyaa , https://www.instagram.com/sidmalviyaa/]
 [anasua_sengupta , https://www.instagram.com/anasua_sengupta/]
@@ -8,3 +9,15 @@
 [apogee_the.brand.enhancer , https://www.instagram.com/apogee_the.brand.enhancer/]
 [divishakediaa_ , https://www.instagram.com/divishakediaa_/]
 [dona__golddy , https://www.instagram.com/dona__golddy/]
+=======
+[pranitigupta79 , https://www.instagram.com/pranitigupta79/]
+[sidmalviyaa , https://www.instagram.com/sidmalviyaa/]
+[anasua_sengupta , https://www.instagram.com/anasua_sengupta/]
+[mondal2shreyashi , https://www.instagram.com/mondal2shreyashi/]
+[priyanka.juyal.7 , https://www.instagram.com/priyanka.juyal.7/]
+[yashv1 , https://www.instagram.com/yashv1/]
+[thirdpersonsingular_ , https://www.instagram.com/thirdpersonsingular_/]
+[apogee_the.brand.enhancer , https://www.instagram.com/apogee_the.brand.enhancer/]
+[divishakediaa_ , https://www.instagram.com/divishakediaa_/]
+[dona__golddy , https://www.instagram.com/dona__golddy/]
+>>>>>>> 2f123b8e8455ba3952c48d83e39df99bf454f3d3

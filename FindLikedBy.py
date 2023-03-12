@@ -3,8 +3,12 @@ from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from time import sleep
 from selenium.webdriver.common.by import By
+<<<<<<< HEAD
+from tqdm import tqdm
+=======
 import platform
 
+>>>>>>> 47d78cfa4d558ff94ca9b4ca8954b521449c75de
 
 def countDown(time_to_count):
 	counter = time_to_count
@@ -23,7 +27,7 @@ def GetData():
 	else:
 		print("List Contains Duplicate Data Bro - Clean This Shit.")
 	print(len(clean_links))
-	return clean_links[0:5]
+	return clean_links
 
 
 def FindLikes(Content_Link , driver):
@@ -60,7 +64,7 @@ def main():
 
 
 	Content_Links = GetData()
-	for link in Content_Links:
+	for link in tqdm(Content_Links):
 		FindLikes(link , driver)
 
 

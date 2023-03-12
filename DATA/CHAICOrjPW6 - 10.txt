@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [my.art.territory , https://www.instagram.com/my.art.territory/]
 [_sharma_samarth_ , https://www.instagram.com/_sharma_samarth_/]
 [un_sat_isfied.engineer , https://www.instagram.com/un_sat_isfied.engineer/]
@@ -8,3 +9,15 @@
 [minimal_artz , https://www.instagram.com/minimal_artz/]
 [kalakaar_hoo , https://www.instagram.com/kalakaar_hoo/]
 [izzaoorjee , https://www.instagram.com/izzaoorjee/]
+=======
+[my.art.territory , https://www.instagram.com/my.art.territory/]
+[_sharma_samarth_ , https://www.instagram.com/_sharma_samarth_/]
+[un_sat_isfied.engineer , https://www.instagram.com/un_sat_isfied.engineer/]
+[_anish_0073_ , https://www.instagram.com/_anish_0073_/]
+[ijsumra , https://www.instagram.com/ijsumra/]
+[apogee_the.brand.enhancer , https://www.instagram.com/apogee_the.brand.enhancer/]
+[boredgibbs , https://www.instagram.com/boredgibbs/]
+[minimal_artz , https://www.instagram.com/minimal_artz/]
+[kalakaar_hoo , https://www.instagram.com/kalakaar_hoo/]
+[izzaoorjee , https://www.instagram.com/izzaoorjee/]
+>>>>>>> 2f123b8e8455ba3952c48d83e39df99bf454f3d3

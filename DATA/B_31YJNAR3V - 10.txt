@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [sidmalviyaa , https://www.instagram.com/sidmalviyaa/]
 [vikash7710 , https://www.instagram.com/vikash7710/]
 [mondal2shreyashi , https://www.instagram.com/mondal2shreyashi/]
@@ -8,3 +9,15 @@
 [thedesignlab__ , https://www.instagram.com/thedesignlab__/]
 [divishakediaa_ , https://www.instagram.com/divishakediaa_/]
 [dona__golddy , https://www.instagram.com/dona__golddy/]
+=======
+[sidmalviyaa , https://www.instagram.com/sidmalviyaa/]
+[vikash7710 , https://www.instagram.com/vikash7710/]
+[mondal2shreyashi , https://www.instagram.com/mondal2shreyashi/]
+[mediaofmonks , https://www.instagram.com/mediaofmonks/]
+[sanchareedas , https://www.instagram.com/sanchareedas/]
+[harisariffath , https://www.instagram.com/harisariffath/]
+[thirdpersonsingular_ , https://www.instagram.com/thirdpersonsingular_/]
+[thedesignlab__ , https://www.instagram.com/thedesignlab__/]
+[divishakediaa_ , https://www.instagram.com/divishakediaa_/]
+[dona__golddy , https://www.instagram.com/dona__golddy/]
+>>>>>>> 2f123b8e8455ba3952c48d83e39df99bf454f3d3

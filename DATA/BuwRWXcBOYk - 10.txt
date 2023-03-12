@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [cristiano_motion , https://www.instagram.com/cristiano_motion/]
 [anasua_sengupta , https://www.instagram.com/anasua_sengupta/]
 [lisamalani_ , https://www.instagram.com/lisamalani_/]
@@ -8,3 +9,15 @@
 [dlog.clinic , https://www.instagram.com/dlog.clinic/]
 [spectrvmbeat , https://www.instagram.com/spectrvmbeat/]
 [kamransharjeel07 , https://www.instagram.com/kamransharjeel07/]
+=======
+[cristiano_motion , https://www.instagram.com/cristiano_motion/]
+[anasua_sengupta , https://www.instagram.com/anasua_sengupta/]
+[lisamalani_ , https://www.instagram.com/lisamalani_/]
+[sanchareedas , https://www.instagram.com/sanchareedas/]
+[kyle.greenberg.designs , https://www.instagram.com/kyle.greenberg.designs/]
+[bhavik99900 , https://www.instagram.com/bhavik99900/]
+[zenyol , https://www.instagram.com/zenyol/]
+[dlog.clinic , https://www.instagram.com/dlog.clinic/]
+[spectrvmbeat , https://www.instagram.com/spectrvmbeat/]
+[kamransharjeel07 , https://www.instagram.com/kamransharjeel07/]
+>>>>>>> 2f123b8e8455ba3952c48d83e39df99bf454f3d3

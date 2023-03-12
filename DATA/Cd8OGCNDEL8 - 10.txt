@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [nainysharma_24 , https://www.instagram.com/nainysharma_24/]
 [imagination025 , https://www.instagram.com/imagination025/]
 [tony_tribbiani_ , https://www.instagram.com/tony_tribbiani_/]
@@ -8,3 +9,15 @@
 [thedigijugad , https://www.instagram.com/thedigijugad/]
 [khushigadhiaa , https://www.instagram.com/khushigadhiaa/]
 [rohan_graphonic , https://www.instagram.com/rohan_graphonic/]
+=======
+[nainysharma_24 , https://www.instagram.com/nainysharma_24/]
+[imagination025 , https://www.instagram.com/imagination025/]
+[tony_tribbiani_ , https://www.instagram.com/tony_tribbiani_/]
+[sparsh.aesthetic , https://www.instagram.com/sparsh.aesthetic/]
+[priyarai87666 , https://www.instagram.com/priyarai87666/]
+[izzaoorjee , https://www.instagram.com/izzaoorjee/]
+[adseekr , https://www.instagram.com/adseekr/]
+[thedigijugad , https://www.instagram.com/thedigijugad/]
+[khushigadhiaa , https://www.instagram.com/khushigadhiaa/]
+[rohan_graphonic , https://www.instagram.com/rohan_graphonic/]
+>>>>>>> 2f123b8e8455ba3952c48d83e39df99bf454f3d3

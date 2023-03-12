@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [concept_king_official , https://www.instagram.com/concept_king_official/]
 [mahimabhatia19 , https://www.instagram.com/mahimabhatia19/]
 [vijnbord , https://www.instagram.com/vijnbord/]
@@ -8,3 +9,15 @@
 [vocabularylexis , https://www.instagram.com/vocabularylexis/]
 [simransharma._.2428 , https://www.instagram.com/simransharma._.2428/]
 [dona__golddy , https://www.instagram.com/dona__golddy/]
+=======
+[concept_king_official , https://www.instagram.com/concept_king_official/]
+[mahimabhatia19 , https://www.instagram.com/mahimabhatia19/]
+[vijnbord , https://www.instagram.com/vijnbord/]
+[market.me.not , https://www.instagram.com/market.me.not/]
+[yashv1 , https://www.instagram.com/yashv1/]
+[prodgspeople , https://www.instagram.com/prodgspeople/]
+[apogee_the.brand.enhancer , https://www.instagram.com/apogee_the.brand.enhancer/]
+[vocabularylexis , https://www.instagram.com/vocabularylexis/]
+[simransharma._.2428 , https://www.instagram.com/simransharma._.2428/]
+[dona__golddy , https://www.instagram.com/dona__golddy/]
+>>>>>>> 2f123b8e8455ba3952c48d83e39df99bf454f3d3

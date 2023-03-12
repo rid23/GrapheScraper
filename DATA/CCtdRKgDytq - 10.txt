@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [stuparvuk_design , https://www.instagram.com/stuparvuk_design/]
 [mondal2shreyashi , https://www.instagram.com/mondal2shreyashi/]
 [i_amfab_ , https://www.instagram.com/i_amfab_/]
@@ -8,3 +9,15 @@
 [dona__golddy , https://www.instagram.com/dona__golddy/]
 [wewake_graphic , https://www.instagram.com/wewake_graphic/]
 [parniy.an , https://www.instagram.com/parniy.an/]
+=======
+[stuparvuk_design , https://www.instagram.com/stuparvuk_design/]
+[mondal2shreyashi , https://www.instagram.com/mondal2shreyashi/]
+[i_amfab_ , https://www.instagram.com/i_amfab_/]
+[n_eel_d , https://www.instagram.com/n_eel_d/]
+[izzaoorjee , https://www.instagram.com/izzaoorjee/]
+[apogee_the.brand.enhancer , https://www.instagram.com/apogee_the.brand.enhancer/]
+[divyahchandgothia , https://www.instagram.com/divyahchandgothia/]
+[dona__golddy , https://www.instagram.com/dona__golddy/]
+[wewake_graphic , https://www.instagram.com/wewake_graphic/]
+[parniy.an , https://www.instagram.com/parniy.an/]
+>>>>>>> 2f123b8e8455ba3952c48d83e39df99bf454f3d3

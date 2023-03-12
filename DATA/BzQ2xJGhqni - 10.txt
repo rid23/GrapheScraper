@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [words_just_words18 , https://www.instagram.com/words_just_words18/]
 [thefaridafaiz , https://www.instagram.com/thefaridafaiz/]
 [jesseinstagraham , https://www.instagram.com/jesseinstagraham/]
@@ -8,3 +9,15 @@
 [dreamdoodler , https://www.instagram.com/dreamdoodler/]
 [adamfard_ , https://www.instagram.com/adamfard_/]
 [jaidevfarms , https://www.instagram.com/jaidevfarms/]
+=======
+[words_just_words18 , https://www.instagram.com/words_just_words18/]
+[thefaridafaiz , https://www.instagram.com/thefaridafaiz/]
+[jesseinstagraham , https://www.instagram.com/jesseinstagraham/]
+[ellophantdesign , https://www.instagram.com/ellophantdesign/]
+[yashashwi18 , https://www.instagram.com/yashashwi18/]
+[_smpoetry_ , https://www.instagram.com/_smpoetry_/]
+[ayotheclown , https://www.instagram.com/ayotheclown/]
+[dreamdoodler , https://www.instagram.com/dreamdoodler/]
+[adamfard_ , https://www.instagram.com/adamfard_/]
+[jaidevfarms , https://www.instagram.com/jaidevfarms/]
+>>>>>>> 2f123b8e8455ba3952c48d83e39df99bf454f3d3

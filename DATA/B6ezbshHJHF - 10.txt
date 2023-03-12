@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [mahimabhatia19 , https://www.instagram.com/mahimabhatia19/]
 [anasua_sengupta , https://www.instagram.com/anasua_sengupta/]
 [sanchareedas , https://www.instagram.com/sanchareedas/]
@@ -8,3 +9,15 @@
 [eat2livebypallavi , https://www.instagram.com/eat2livebypallavi/]
 [zenyol , https://www.instagram.com/zenyol/]
 [bunthoeurn_junior , https://www.instagram.com/bunthoeurn_junior/]
+=======
+[mahimabhatia19 , https://www.instagram.com/mahimabhatia19/]
+[anasua_sengupta , https://www.instagram.com/anasua_sengupta/]
+[sanchareedas , https://www.instagram.com/sanchareedas/]
+[fredkrudger , https://www.instagram.com/fredkrudger/]
+[mikebelle_design , https://www.instagram.com/mikebelle_design/]
+[gram_like_sb , https://www.instagram.com/gram_like_sb/]
+[s_ilas_ , https://www.instagram.com/s_ilas_/]
+[eat2livebypallavi , https://www.instagram.com/eat2livebypallavi/]
+[zenyol , https://www.instagram.com/zenyol/]
+[bunthoeurn_junior , https://www.instagram.com/bunthoeurn_junior/]
+>>>>>>> 2f123b8e8455ba3952c48d83e39df99bf454f3d3

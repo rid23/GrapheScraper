@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [mahimabhatia19 , https://www.instagram.com/mahimabhatia19/]
 [vishmaysinh_solanki , https://www.instagram.com/vishmaysinh_solanki/]
 [illustrator.mb , https://www.instagram.com/illustrator.mb/]
@@ -8,3 +9,15 @@
 [sahil_farooq07 , https://www.instagram.com/sahil_farooq07/]
 [theinked_window , https://www.instagram.com/theinked_window/]
 [zenyol , https://www.instagram.com/zenyol/]
+=======
+[mahimabhatia19 , https://www.instagram.com/mahimabhatia19/]
+[vishmaysinh_solanki , https://www.instagram.com/vishmaysinh_solanki/]
+[illustrator.mb , https://www.instagram.com/illustrator.mb/]
+[themomo_sapien , https://www.instagram.com/themomo_sapien/]
+[priyanka.juyal.7 , https://www.instagram.com/priyanka.juyal.7/]
+[zorbizm , https://www.instagram.com/zorbizm/]
+[_swapnil_t , https://www.instagram.com/_swapnil_t/]
+[sahil_farooq07 , https://www.instagram.com/sahil_farooq07/]
+[theinked_window , https://www.instagram.com/theinked_window/]
+[zenyol , https://www.instagram.com/zenyol/]
+>>>>>>> 2f123b8e8455ba3952c48d83e39df99bf454f3d3

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [gocooool_ , https://www.instagram.com/gocooool_/]
 [itsvenukurapati , https://www.instagram.com/itsvenukurapati/]
 [amrita_roy_chowdhury_ , https://www.instagram.com/amrita_roy_chowdhury_/]
@@ -8,3 +9,15 @@
 [elitegraphee , https://www.instagram.com/elitegraphee/]
 [trycreativelysmart , https://www.instagram.com/trycreativelysmart/]
 [ritugraphix , https://www.instagram.com/ritugraphix/]
+=======
+[gocooool_ , https://www.instagram.com/gocooool_/]
+[itsvenukurapati , https://www.instagram.com/itsvenukurapati/]
+[amrita_roy_chowdhury_ , https://www.instagram.com/amrita_roy_chowdhury_/]
+[muskan2882sri , https://www.instagram.com/muskan2882sri/]
+[priyarai87666 , https://www.instagram.com/priyarai87666/]
+[tusharsarmet , https://www.instagram.com/tusharsarmet/]
+[happy_sunshine355 , https://www.instagram.com/happy_sunshine355/]
+[elitegraphee , https://www.instagram.com/elitegraphee/]
+[trycreativelysmart , https://www.instagram.com/trycreativelysmart/]
+[ritugraphix , https://www.instagram.com/ritugraphix/]
+>>>>>>> 2f123b8e8455ba3952c48d83e39df99bf454f3d3

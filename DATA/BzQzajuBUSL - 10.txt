@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [words_just_words18 , https://www.instagram.com/words_just_words18/]
 [laserscanman , https://www.instagram.com/laserscanman/]
 [yashmalo.o , https://www.instagram.com/yashmalo.o/]
@@ -8,3 +9,15 @@
 [pavloseteridis , https://www.instagram.com/pavloseteridis/]
 [dreamdoodler , https://www.instagram.com/dreamdoodler/]
 [steves.blog , https://www.instagram.com/steves.blog/]
+=======
+[words_just_words18 , https://www.instagram.com/words_just_words18/]
+[laserscanman , https://www.instagram.com/laserscanman/]
+[yashmalo.o , https://www.instagram.com/yashmalo.o/]
+[nelsondearaujodesign , https://www.instagram.com/nelsondearaujodesign/]
+[_smpoetry_ , https://www.instagram.com/_smpoetry_/]
+[3dprintingandtechnology , https://www.instagram.com/3dprintingandtechnology/]
+[dikarte.store , https://www.instagram.com/dikarte.store/]
+[pavloseteridis , https://www.instagram.com/pavloseteridis/]
+[dreamdoodler , https://www.instagram.com/dreamdoodler/]
+[steves.blog , https://www.instagram.com/steves.blog/]
+>>>>>>> 2f123b8e8455ba3952c48d83e39df99bf454f3d3

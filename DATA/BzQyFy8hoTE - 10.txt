@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [words_just_words18 , https://www.instagram.com/words_just_words18/]
 [lisamalani_ , https://www.instagram.com/lisamalani_/]
 [_smpoetry_ , https://www.instagram.com/_smpoetry_/]
@@ -8,3 +9,15 @@
 [richardkoenig_ , https://www.instagram.com/richardkoenig_/]
 [yolk_planet , https://www.instagram.com/yolk_planet/]
 [rudi_designwork , https://www.instagram.com/rudi_designwork/]
+=======
+[words_just_words18 , https://www.instagram.com/words_just_words18/]
+[lisamalani_ , https://www.instagram.com/lisamalani_/]
+[_smpoetry_ , https://www.instagram.com/_smpoetry_/]
+[eat2livebypallavi , https://www.instagram.com/eat2livebypallavi/]
+[zenyol , https://www.instagram.com/zenyol/]
+[kunal_toraskar , https://www.instagram.com/kunal_toraskar/]
+[actively.lazy_ , https://www.instagram.com/actively.lazy_/]
+[richardkoenig_ , https://www.instagram.com/richardkoenig_/]
+[yolk_planet , https://www.instagram.com/yolk_planet/]
+[rudi_designwork , https://www.instagram.com/rudi_designwork/]
+>>>>>>> 2f123b8e8455ba3952c48d83e39df99bf454f3d3
