@@ -10,7 +10,7 @@ dirs_list = os.listdir("./DATA/")
 
 
 def SaveSelectedUserData(DataList):
-	with Open('SelectedUser.txt' , 'w') as f:
+	with open('SelectedUser.txt' , 'w') as f:
 		Data = [f'{data}\n' for data in DataList]
 		f.writelines(Data)
 		print(f'Total {len(Data)} Selected User Data Has Been Stored Successfully. :)')
@@ -70,5 +70,5 @@ for i in range(len(keys_)):
 	print(f"{keys_[i]} --> {values[i]}")
 	AllSelectedUsers.append(f"{keys_[i]} --> {values[i]}")
 
-SaveSelectedUserData(AllSelectedUsers)\
+SaveSelectedUserData(AllSelectedUsers)
 print('Task Complete Bro --------------- ')
