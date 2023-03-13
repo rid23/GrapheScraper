@@ -7,6 +7,15 @@ from grapheScraper import countDown as countdown
 
 dirs_list = os.listdir("./DATA/")
 
+
+
+def SaveSelectedUserData(DataList):
+	with Open('SelectedUser.txt' , 'w') as f:
+		Data = [f'{data}\n' for data in DataList]
+		f.writelines(Data)
+		print(f'Total {len(Data)} Selected User Data Has Been Stored Successfully. :)')
+
+
 if "all_users.json" not in dirs_list:
 	with open("./DATA/all_users.json", 'w') as file:
 		pass
@@ -54,5 +63,12 @@ for i in range(len(values)):
 			values[j], values[i] = values[i], values[j]
 			keys_[j], keys_[i] = keys_[i], keys_[j]
 
+AllSelectedUsers = []
 for i in range(len(keys_)):
+	if values[i] < 40:
+		continue
 	print(f"{keys_[i]} --> {values[i]}")
+	AllSelectedUsers.append(f"{keys_[i]} --> {values[i]}")
+
+SaveSelectedUserData(AllSelectedUsers)\
+print('Task Complete Bro --------------- ')
